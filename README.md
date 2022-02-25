@@ -11,3 +11,14 @@ Séance was created to provide a solid monochromatic foundation embraced with an
 Remarkably lightweight, assertive, featuring colour palettes drawn to [accessibility](https://developer.wordpress.org/themes/functionality/accessibility/), and full-featured with dozens of carefully handcrafted [Gutenberg Block Patterns](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) that gently bring the strength of minimalistic visuals to content as if flipping pages of a book quickly with gentle fingertips while reading words with leisure.
 
 Fully customizable, Séance embraces the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features introduced in [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unusual manner, accommodates a new writing and visual experience.
+
+## Roadmap
+
+Fortunately, Séance has a [public roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seance) that can be accessed to observe both its development and progress.
+
+## Credit
+
+The thumbnail on this README.md file:
+
+"Person Holding Hand Mirror" by Lisa Fotios, CCO
+https://www.pexels.com/photo/person-holding-hand-mirror-2183445/
